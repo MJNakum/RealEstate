@@ -1,0 +1,68 @@
+bedroom_choices={
+
+    '1':1,
+    '2':2,
+    '3':3,
+    '4':4,
+    '5':5,
+    '6':6,
+    '7':7,
+    '8':8,
+    '9':9,
+    '10':10,
+}
+
+price_choices={
+    '100000':'₹100,000',
+    '200000':'₹200,000',
+    '300000':'₹300,000',
+    '400000':'₹400,000',
+    '500000':'₹500,000',
+    '700000':'₹700,000',
+    '600000':'₹600,000',
+    '800000':'₹800,000',
+    '900000':'₹900,000',
+    '1000000':'₹1M+',
+
+}
+
+state_choices={
+"A" : "Andhra Pradesh",
+"B":"Arunachal Pradesh" ,
+"C":"Assam",
+"D":"Bihar",
+"E":"Chhattisgarh",
+"F":"Goa",
+"G":"Gujarat",
+"H":"Haryana",
+"I":"Himachal Pradesh",
+"J":"Jammu and Kashmir",
+"K":"Jharkhand",
+"L":"Karnataka",
+"M":"Kerala",
+"N":"Madhya Pradesh",
+"O":"Maharashtra",
+"P":"Manipur",
+"Q":"Meghalaya",
+"R":"Mizoram",
+"S":"Nagaland",
+"T":"Odisha",
+"U":"Punjab",
+"V":"Rajasthan",
+"W":"Sikkim",
+"X":"Tamil Nadu",
+"Y":"Telangana",
+"Z":"Tripura",
+"AA":"Uttar Pradesh",
+"AB":"Uttarakhand",
+"AC":"West Bengal",
+"AD":"Andaman and Nicobar Islands",
+"AE":"Chandigarh",
+"AF":"Dadra and Nagar Haveli",
+"AG":"Daman and Diu",
+"AH":"Lakshadweep",
+"AI":"National Capital Territory of Delhi",
+"AJ":"Puducherry",
+    
+
+}
